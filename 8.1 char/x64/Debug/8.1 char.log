@@ -1,0 +1,5 @@
+﻿  8.1 char.cpp
+C:\Users\Іван\Desktop\8.1 char\8.1 char\8.1 char.cpp(15,15): warning C4244: '=': conversion from '__int64' to 'int', possible loss of data
+C:\Users\Іван\Desktop\8.1 char\8.1 char\8.1 char.cpp(31,15): warning C4244: '=': conversion from '__int64' to 'int', possible loss of data
+C:\Users\Іван\Desktop\8.1 char\8.1 char\8.1 char.cpp(38,15): warning C4244: '=': conversion from '__int64' to 'int', possible loss of data
+  8.1 char.vcxproj -> C:\Users\Іван\Desktop\8.1 char\x64\Debug\8.1 char.exe
